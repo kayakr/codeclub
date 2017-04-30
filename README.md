@@ -32,12 +32,48 @@ Resources for Mt Pleasant School Code Club
 ## Games
 * Robot Turtles (2x)
 
+## Scratch
+* https://scratch.mit.edu/
+
+## Other sites
+* https://codepen.io
+
 
 ### Adventures of Mike
 * a series of tasks using Scratch
 #### What you need:
 * Download & unpack zip file of sprites https://www.dropbox.com/s/6s4n3unhk1ubbgc/Scratch-2.0-The-Adventures-of-Mike-Sprites.zip?dl=0  (look for direct download option, a Dropbox account is *not* necessary)
 
-Getting started
+## Getting started
 * Robot Turtles *problem solving, sequences of instructions, debugging, functions*
 * How to Code (Chapter 1) *initial scratch progam, moving, changing direction*
+* 20 Games with Scratch Book
+* ?Scratch tutorials(online)
+* Hour of Code: https://hourofcode.com/nz/learn
+* BeeBots
+* Dash and Dot Robot
+
+## Beginner
+* Code.org:Hour of Code(online)
+* How to Code(Chapter 2 and 3)
+* Learn to Program with Scratch (book)
+* Dash and Dot Robot
+
+## Intermediate
+* Code.org:Hour of Code *specify examples*
+* Kahn Academy Programing (online)
+* How to Code (Chapter 3 and 4)
+* Learn to Program with Scratch (book)
+* BBC Microbits
+* mBot robots
+
+## Advanced
+* Get Coding
+* Javascript for Kids
+* Code Combat(online)
+* Code Avengers
+* How to Code (Chapter 4)
+* Khan Academy (online)
+* Javascrpt for Kids (book)
+* 3D Programming for Kids
+* mBot robots
