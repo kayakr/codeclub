@@ -37,12 +37,16 @@ Resources for Mt Pleasant School Code Club
 
 ## Other sites
 * https://codepen.io
-
+* https://runkit.com/ *interactive javascript notebooks*
+* https://glitch.com/ *hosted sites, esp. javascript*
 
 ### Adventures of Mike
 * a series of tasks using Scratch
 #### What you need:
 * Download & unpack zip file of sprites https://www.dropbox.com/s/6s4n3unhk1ubbgc/Scratch-2.0-The-Adventures-of-Mike-Sprites.zip?dl=0  (look for direct download option, a Dropbox account is *not* necessary)
+
+## Step 0 - Touch typing
+* https://www.typingclub.com/
 
 ## Getting started
 * Robot Turtles *problem solving, sequences of instructions, debugging, functions*
@@ -58,6 +62,9 @@ Resources for Mt Pleasant School Code Club
 * How to Code(Chapter 2 and 3)
 * Learn to Program with Scratch (book)
 * Dash and Dot Robot
+
+## HTML and CSS
+* https://popcode.org/ *interactive HTML, CSS, and JS in a single page*
 
 ## Intermediate
 * Code.org:Hour of Code *specify examples*
