@@ -8,10 +8,14 @@ Resources for Mt Pleasant School Code Club
   * https://www.nostarch.com/learnscratch
   * Resources: https://www.nostarch.com/learnscratchresources
 * How to Code: A step-by-step guide to computer coding
+  * https://www.quartoknows.com/books/9781784936655/How-to-Code-Bind-Up.html
 * 20 Games with Scratch Book
+  * https://www.quartoknows.com/books/9781784936648/20-Games-To-Create-With-Scratch.html
 * Javascript for Kids: A playful introduction to programming
   * https://www.nostarch.com/javascriptforkids
 * 3D Programming for Kids
+  * https://pragprog.com/book/csjava/3d-game-programming-for-kids
+  * Editor: http://gamingjs.com/ice/
 
 ## Task Cards
 * Scratch - Mikes Journey on Scratch
