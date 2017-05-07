@@ -55,13 +55,14 @@ Resources for Mt Pleasant School Code Club
 * ?Scratch tutorials(online)
 * Hour of Code: https://hourofcode.com/nz/learn
 * BeeBots
-* Dash and Dot Robot
 
 ## Beginner
 * Code.org:Hour of Code(online)
 * How to Code(Chapter 2 and 3)
 * Learn to Program with Scratch (book)
 * Dash and Dot Robot
+ * Wonder app for iPad (https://www.makewonder.com/apps/wonder )
+ * Blockly app for iPad (https://www.makewonder.com/apps/blockly )
 
 ## HTML and CSS
 * https://popcode.org/ *interactive HTML, CSS, and JS in a single page*
