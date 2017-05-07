@@ -22,11 +22,14 @@ Resources for Mt Pleasant School Code Club
 * mBot - 
 
 ## Devices
-* BBC Microbits (10x)
+* BBC micro:bits (10x)
+* Kitronik Inventor's Kit for BBC micro:bit (2x)
 
 ## Robots
 * Beebots
 * Dash and Dot (2x)
+  * Wonder app for iPad (https://www.makewonder.com/apps/wonder )
+  * Blockly app for iPad (https://www.makewonder.com/apps/blockly )
 * mBot (5x)
 
 ## Games
@@ -61,8 +64,8 @@ Resources for Mt Pleasant School Code Club
 * How to Code(Chapter 2 and 3)
 * Learn to Program with Scratch (book)
 * Dash and Dot Robot
- * Wonder app for iPad (https://www.makewonder.com/apps/wonder )
- * Blockly app for iPad (https://www.makewonder.com/apps/blockly )
+  * Wonder app for iPad (https://www.makewonder.com/apps/wonder )
+  * Blockly app for iPad (https://www.makewonder.com/apps/blockly )
 
 ## HTML and CSS
 * https://popcode.org/ *interactive HTML, CSS, and JS in a single page*
