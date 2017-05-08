@@ -61,6 +61,8 @@ Resources for Mt Pleasant School Code Club
 
 ## Beginner
 * Code.org:Hour of Code(online)
+* [ ] Scratch Cards: Change Colour
+* [ ] Scratch Cards: Animate Your Name
 * How to Code(Chapter 2 and 3)
 * Learn to Program with Scratch (book)
 * Dash and Dot Robot
