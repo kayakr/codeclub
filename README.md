@@ -54,18 +54,25 @@ Resources for Mt Pleasant School Code Club
 ## Getting started
 * Robot Turtles *problem solving, sequences of instructions, debugging, functions*
 * How to Code (Chapter 1) *initial scratch progam, moving, changing direction*
-* 20 Games with Scratch Book
-* ?Scratch tutorials(online)
-* Hour of Code: https://hourofcode.com/nz/learn
-* BeeBots
+* Ensure computer has Flash (required for Scratch).
+* Create a https://scratch.mit.edu account.
 
 ## Beginner
-* Code.org:Hour of Code(online)
-* https://scratch.mit.edu/info/cards/
+* Code.org:Hour of Code https://hourofcode.com/nz/learn
+* Scratch tutorials: https://scratch.mit.edu, login, click Create, ? on top right
+  * [ ] Getting Started with Scratch
+  * [ ] Make a Birthday Card
+  * [ ] Race to the Finish
+  * [ ] Create a Story
+  * [ ] Create a Pong Game
+  * and many others
+* Scratch Cards https://scratch.mit.edu/info/cards/
   * [ ] Scratch Cards: Change Colour
   * [ ] Scratch Cards: Animate Your Name
-* How to Code(Chapter 2 and 3)
-* Learn to Program with Scratch (book)
+* [ ] Learn to Program with Scratch (book)
+* [ ] 20 Games with Scratch Book
+* [ ] BeeBots
+* How to Code (Chapter 2 and 3)
 * Dash and Dot Robot
   * Wonder app for iPad (https://www.makewonder.com/apps/wonder )
   * Blockly app for iPad (https://www.makewonder.com/apps/blockly )
