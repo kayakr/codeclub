@@ -93,6 +93,17 @@ Resources for Mt Pleasant School Code Club
     * [ ] 4. Go Random!
     * [ ] 5. Click for Points
     * [ ] 6. Hiding Place
+  * [ ] Scratch Cards: Let's Dance (do in any order) *laminated cards don't match*
+    * [ ] Dance Sequence
+    * [ ] Dance Loop
+    * [ ] Play Music
+    * [ ] Take Turns
+    * [ ] Starting Position
+    * [ ] Shadow Effect
+    * [ ] Leave a Trail
+    * [ ] Color Effect
+    * [ ] Bop a Bit
+    * [ ] Interactive Dance
 * [ ] Learn to Program with Scratch (book)
 * [ ] 20 Games with Scratch Book, Level 1 Games (inputs, loops, if, coordinates)
   * [ ] Hungry Cat
