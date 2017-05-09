@@ -79,13 +79,20 @@ Resources for Mt Pleasant School Code Club
     * [ ] Press a Key
     * [ ] Glide Around
   * [ ] Scratch Cards: Make It Fly (do in sequence)
-    1. [ ] Choose a Character
-    1. [ ] Start Flying
-    1. [ ] Switch Looks
-    1. [ ] Move with Keys
-    1. [ ] Floating Clouds
-    1. [ ] Flying Hearts
-    1. [ ] Collect Points
+    * [ ] 1. Choose a Character
+    * [ ] 2. Start Flying
+    * [ ] 3. Switch Looks
+    * [ ] 4. Move with Keys
+    * [ ] 5. Floating Clouds
+    * [ ] 6. Flying Hearts
+    * [ ] 7. Collect Points
+  * [ ] Scratch Cards: Hide and Seek (do in sequence)
+    * [ ] 1. Disappear
+    * [ ] 2. Click and Say
+    * [ ] 3. Surprise Timing!
+    * [ ] 4. Go Random!
+    * [ ] 5. Click for Points
+    * [ ] 6. Hiding Place
 * [ ] Learn to Program with Scratch (book)
 * [ ] 20 Games with Scratch Book, Level 1 Games (inputs, loops, if, coordinates)
   * [ ] Hungry Cat
