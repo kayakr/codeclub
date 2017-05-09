@@ -70,7 +70,13 @@ Resources for Mt Pleasant School Code Club
   * [ ] Scratch Cards: Change Colour
   * [ ] Scratch Cards: Animate Your Name
 * [ ] Learn to Program with Scratch (book)
-* [ ] 20 Games with Scratch Book
+* [ ] 20 Games with Scratch Book, Level 1 Games (inputs, loops, if, coordinates)
+  * [ ] Hungry Cat
+  * [ ] Treasurer Island
+  * [ ] Amazing Maze
+  * [ ] Drive Me Crazy (2 sheets)
+  * [ ] Tunnel of Gold
+  * [ ] Cross the Road
 * [ ] BeeBots
 * How to Code (Chapter 2 and 3)
 * Dash and Dot Robot
@@ -81,6 +87,15 @@ Resources for Mt Pleasant School Code Club
 * https://popcode.org/ *interactive HTML, CSS, and JS in a single page*
 
 ## Intermediate
+* [ ] 20 Games with Scratch Book, Level 2 Games (variables, random numbers, animations)
+  * [ ] Dog and Bone
+  * [ ] Catch the Doughnut
+  * [ ] Up in the clouds
+* [ ] 20 Games with Scratch Book, Level 3 Games (complex collisions, variables, sound effects)
+  * [ ] Flappy Fish
+  * [ ] Helicopter Pilot
+  * [ ] Snake
+  * [ ] Ping Pong
 * Code.org:Hour of Code *specify examples*
 * Kahn Academy Programing (online)
 * How to Code (Chapter 3 and 4)
