@@ -73,7 +73,7 @@ Resources for Mt Pleasant School Code Club
   * [ ] Scratch Cards: Animate Your Name (try these cards in any order
     * [ ] Colour Clicker
     * [x] Spin
-    * [ ] Play a Sound
+    * [x] Play a Sound
     * [ ] Dancing Letter
     * [ ] Change Size
     * [ ] Press a Key
