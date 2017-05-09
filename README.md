@@ -104,6 +104,31 @@ Resources for Mt Pleasant School Code Club
     * [ ] Color Effect
     * [ ] Bop a Bit
     * [ ] Interactive Dance
+  * Scratch Cards: Create a Story (start with 1, then any order) *laminated cards don't match*
+    * [ ] 1. Start a Story
+    * [ ] Show a Character
+    * [ ] Make a Conversation
+    * [ ] Switch Scenes
+    * [ ] Glide to a Sport
+    * [ ] Appear in a Scene
+    * [ ] Make it Interactive
+    * [ ] Add Your Voice
+    * [ ] Click a Button
+  * Scratch Cards: Pong Game (do in sequence)
+    * [ ] 1. Bounce Around
+    * [ ] 2. Move the Paddle
+    * [ ] 3. Bounce off the Paddle
+    * [ ] 4. Game Over
+    * [ ] 5. Score Points
+    * [ ] 6. Win the Game
+  * Scratch Cards: Catch Game (do in sequence)
+    * [ ] 1. Go to the Top
+    * [ ] 2. Fall Down
+    * [ ] 3. Move the Catcher
+    * [ ] 4. Catch It!
+    * [ ] 5. Keep Score
+    * [ ] 6. Bonus Points
+    * [ ] 7. You Win!
 * [ ] Learn to Program with Scratch (book)
 * [ ] 20 Games with Scratch Book, Level 1 Games (inputs, loops, if, coordinates)
   * [ ] Hungry Cat
