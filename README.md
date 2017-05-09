@@ -37,6 +37,9 @@ Resources for Mt Pleasant School Code Club
 
 ## Scratch
 * https://scratch.mit.edu/
+* Scratch cards (PDFs) https://scratch.mit.edu/info/cards/
+* Creative Computing http://scratched.gse.harvard.edu/guide/
+* Make an Amazing Maze with Scatch https://www.pond.co.nz/detail/3743614/make-an-amazing-maze-with-scratch
 
 ## Other sites
 * https://codepen.io
