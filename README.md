@@ -61,17 +61,31 @@ Resources for Mt Pleasant School Code Club
 * Create a https://scratch.mit.edu account.
 
 ## Beginner
-* Code.org:Hour of Code https://hourofcode.com/nz/learn
-* Scratch tutorials: https://scratch.mit.edu, login, click Create, ? on top right
+* [ ] Code.org:Hour of Code https://hourofcode.com/nz/learn
+* [ ] Scratch tutorials: https://scratch.mit.edu, login, click Create, ? on top right
   * [ ] Getting Started with Scratch
   * [ ] Make a Birthday Card
   * [ ] Race to the Finish
   * [ ] Create a Story
   * [ ] Create a Pong Game
   * and many others
-* Scratch Cards https://scratch.mit.edu/info/cards/
-  * [ ] Scratch Cards: Change Colour
-  * [ ] Scratch Cards: Animate Your Name
+* [ ] Scratch Cards https://scratch.mit.edu/info/cards/
+  * [ ] Scratch Cards: Animate Your Name (try these cards in any order
+    * [ ] Colour Clicker
+    * [ ] Spin
+    * [ ] Play a Sound
+    * [ ] Dancing Letter
+    * [ ] Change Size
+    * [ ] Press a Key
+    * [ ] Glide Around
+  * [ ] Scratch Cards: Make It Fly (do in sequence)
+    1. [ ] Choose a Character
+    1. [ ] Start Flying
+    1. [ ] Switch Looks
+    1. [ ] Move with Keys
+    1. [ ] Floating Clouds
+    1. [ ] Flying Hearts
+    1. [ ] Collect Points
 * [ ] Learn to Program with Scratch (book)
 * [ ] 20 Games with Scratch Book, Level 1 Games (inputs, loops, if, coordinates)
   * [ ] Hungry Cat
@@ -82,9 +96,9 @@ Resources for Mt Pleasant School Code Club
   * [ ] Cross the Road
 * [ ] BeeBots
 * How to Code (Chapter 2 and 3)
-* Dash and Dot Robot
-  * Wonder app for iPad (https://www.makewonder.com/apps/wonder )
-  * Blockly app for iPad (https://www.makewonder.com/apps/blockly )
+* [ ] Dash and Dot Robot
+  * [ ] Wonder app for iPad (https://www.makewonder.com/apps/wonder )
+  * [ ] Blockly app for iPad (https://www.makewonder.com/apps/blockly )
 
 ## HTML and CSS
 * https://popcode.org/ *interactive HTML, CSS, and JS in a single page*
