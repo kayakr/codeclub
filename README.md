@@ -41,6 +41,9 @@ Resources for Mt Pleasant School Code Club
 * Creative Computing http://scratched.gse.harvard.edu/guide/
 * Make an Amazing Maze with Scatch https://www.pond.co.nz/detail/3743614/make-an-amazing-maze-with-scratch
 
+## HTML/CSS
+* https://thimble.mozilla.org/
+
 ## Other sites
 * https://codepen.io
 * https://runkit.com/ *interactive javascript notebooks*
