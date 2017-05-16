@@ -164,6 +164,8 @@ Resources for Mt Pleasant School Code Club
 * How to Code (Chapter 3 and 4)
 * Learn to Program with Scratch (book)
 * BBC Microbits
+ * [ ] Follow Block Editor Tutorial from https://www.microbit.co.uk/create-code
+ * [ ] Look for additional challenges https://www.microbit.co.uk/home#
 * mBot robots
 
 ## Advanced
