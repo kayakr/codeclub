@@ -175,6 +175,6 @@ Resources for Mt Pleasant School Code Club
 * Code Avengers
 * How to Code (Chapter 4)
 * Khan Academy (online)
-* Javascrpt for Kids (book)
+* Javascript for Kids (book)
 * 3D Programming for Kids
 * mBot robots
