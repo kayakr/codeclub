@@ -166,6 +166,7 @@ Resources for Mt Pleasant School Code Club
 * BBC Microbits
  * [ ] Follow Block Editor Tutorial from https://www.microbit.co.uk/create-code
  * [ ] Look for additional challenges https://www.microbit.co.uk/home#
+ * [ ] PXT Editor lets you toggle between blocks and Javascript https://pxt.microbit.org/?lang=en
 * mBot robots
 
 ## Advanced
