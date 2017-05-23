@@ -178,3 +178,6 @@ Resources for Mt Pleasant School Code Club
 * Javascript for Kids (book)
 * 3D Programming for Kids
 * mBot robots
+
+## Python
+* https://trinket.io/
