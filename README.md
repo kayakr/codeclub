@@ -37,6 +37,7 @@ Resources for Mt Pleasant School Code Club
 
 ## Scratch
 * https://scratch.mit.edu/
+* CodeClub GB Scratch modules https://codeclubprojects.org/en-GB/scratch/
 * Scratch cards (PDFs) https://scratch.mit.edu/info/cards/
 * Creative Computing http://scratched.gse.harvard.edu/guide/
 * Make an Amazing Maze with Scatch https://www.pond.co.nz/detail/3743614/make-an-amazing-maze-with-scratch
@@ -132,6 +133,11 @@ Resources for Mt Pleasant School Code Club
     * [ ] 5. Keep Score
     * [ ] 6. Bonus Points
     * [ ] 7. You Win!
+* [ ] CodeClub GB Scratch modules
+  * [ ] Rock Band https://codeclubprojects.org/en-GB/scratch/rock-band/
+  * [ ] Lost in Space https://codeclubprojects.org/en-GB/scratch/lost-in-space/
+  * [ ] Ghostbusters https://codeclubprojects.org/en-GB/scratch/ghostbusters/
+  * [ ] and more...
 * [ ] Learn to Program with Scratch (book)
 * [ ] 20 Games with Scratch Book, Level 1 Games (inputs, loops, if, coordinates)
   * [ ] Hungry Cat
