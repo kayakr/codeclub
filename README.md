@@ -174,6 +174,20 @@ Resources for Mt Pleasant School Code Club
  * [ ] Look for additional challenges https://www.microbit.co.uk/home#
  * [ ] PXT Editor lets you toggle between blocks and Javascript https://pxt.microbit.org/?lang=en
 * mBot robots
+ * [ ] MakeBlock, offers simple remote control UI	https://itunes.apple.com/nz/app/makeblock-play-stem-robots-visual-programming/id918804737?mt=8
+ * [ ] mBlock, Sctatch-style programming https://itunes.apple.com/nz/app/mblock-game-based-learning-graphical-programming/id1146685354?mt=8
+   * Tutorial mode has sequence of steps
+   * [ ] 1. Sequence
+   * [ ] 2. Speed
+   * [ ] 3. Repeat
+   * [ ] 4. Stop
+   * [ ] 5. Wait
+   * [ ] 6. Judgement
+   * [ ] 7. Conditions
+   * [ ] 8. Comparing
+   * [ ] 9. Light
+   * [ ] 10. Value
+ * *mBlockly is in app store but mBlock is more recent.*
 
 ## Advanced
 * Get Coding
