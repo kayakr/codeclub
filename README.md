@@ -175,6 +175,7 @@ Resources for Mt Pleasant School Code Club
  * [ ] PXT Editor lets you toggle between blocks and Javascript https://pxt.microbit.org/?lang=en
    * [ ] Smiley buttons (& over radio) https://makecode.microbit.org/projects/smiley-buttons
    * [ ] Rock Paper Scissors https://makecode.microbit.org/projects/rock-paper-scissors 
+ * [ ] Additional projects: https://codeclubprojects.org/en-GB/microbit/
 * mBot robots
  * [ ] MakeBlock, offers simple remote control UI	https://itunes.apple.com/nz/app/makeblock-play-stem-robots-visual-programming/id918804737?mt=8
  * [ ] mBlock, Sctatch-style programming https://itunes.apple.com/nz/app/mblock-game-based-learning-graphical-programming/id1146685354?mt=8
