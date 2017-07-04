@@ -202,6 +202,7 @@ Resources for Mt Pleasant School Code Club
 * Javascript for Kids (book)
 * 3D Programming for Kids
 * mBot robots
+* Free Code Camp https://www.freecodecamp.org/ (HTML, CSS, jQuery, Javascript)
 
 ## Python
 * https://trinket.io/
