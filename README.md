@@ -21,10 +21,6 @@ Resources for Mt Pleasant School Code Club, Christchurch, New Zealand
   * https://pragprog.com/book/csjava/3d-game-programming-for-kids
   * Editor: http://gamingjs.com/ice/
 
-## Task Cards
-* Scratch - Mikes Journey on Scratch
-* mBot - 
-
 ## Devices
 * BBC micro:bits (10x)
 * Kitronik Inventor's Kit for BBC micro:bit (2x)
@@ -48,11 +44,6 @@ Resources for Mt Pleasant School Code Club, Christchurch, New Zealand
 
 ## HTML/CSS
 * https://thimble.mozilla.org/
-
-## Other sites
-* https://codepen.io
-* https://runkit.com/ *interactive javascript notebooks*
-* https://glitch.com/ *hosted sites, esp. javascript*
 
 ### Adventures of Mike
 * a series of tasks using Scratch
@@ -165,3 +156,6 @@ Resources for Mt Pleasant School Code Club, Christchurch, New Zealand
 
 * https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-playgrounds.md#javascript
 * https://repl.it/languages/javascript
+* https://codepen.io
+* https://runkit.com/ *interactive javascript notebooks*
+* https://glitch.com/ *hosted sites, esp. javascript*
