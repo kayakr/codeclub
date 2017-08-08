@@ -75,64 +75,12 @@ Resources for Mt Pleasant School Code Club
   * and many others
 * [ ] Scratch Cards https://scratch.mit.edu/info/cards/
   * [ ] Scratch Cards: Animate Your Name (try these cards in any order
-    * [ ] Colour Clicker
-    * [ ] Spin
-    * [ ] Play a Sound
-    * [ ] Dancing Letter
-    * [ ] Change Size
-    * [ ] Press a Key
-    * [ ] Glide Around
   * [ ] Scratch Cards: Make It Fly (do in sequence)
-    * [ ] 1. Choose a Character
-    * [ ] 2. Start Flying
-    * [ ] 3. Switch Looks
-    * [ ] 4. Move with Keys
-    * [ ] 5. Floating Clouds
-    * [ ] 6. Flying Hearts
-    * [ ] 7. Collect Points
   * [ ] Scratch Cards: Hide and Seek (do in sequence)
-    * [ ] 1. Disappear
-    * [ ] 2. Click and Say
-    * [ ] 3. Surprise Timing!
-    * [ ] 4. Go Random!
-    * [ ] 5. Click for Points
-    * [ ] 6. Hiding Place
   * [ ] Scratch Cards: Let's Dance (do in any order) *laminated cards don't match*
-    * [ ] Dance Sequence
-    * [ ] Dance Loop
-    * [ ] Play Music
-    * [ ] Take Turns
-    * [ ] Starting Position
-    * [ ] Shadow Effect
-    * [ ] Leave a Trail
-    * [ ] Color Effect
-    * [ ] Bop a Bit
-    * [ ] Interactive Dance
   * [ ] Scratch Cards: Create a Story (start with 1, then any order) *laminated cards don't match*
-    * [ ] 1. Start a Story
-    * [ ] Show a Character
-    * [ ] Make a Conversation
-    * [ ] Switch Scenes
-    * [ ] Glide to a Sport
-    * [ ] Appear in a Scene
-    * [ ] Make it Interactive
-    * [ ] Add Your Voice
-    * [ ] Click a Button
   * [ ] Scratch Cards: Pong Game (do in sequence)
-    * [ ] 1. Bounce Around
-    * [ ] 2. Move the Paddle
-    * [ ] 3. Bounce off the Paddle
-    * [ ] 4. Game Over
-    * [ ] 5. Score Points
-    * [ ] 6. Win the Game
   * [ ] Scratch Cards: Catch Game (do in sequence)
-    * [ ] 1. Go to the Top
-    * [ ] 2. Fall Down
-    * [ ] 3. Move the Catcher
-    * [ ] 4. Catch It!
-    * [ ] 5. Keep Score
-    * [ ] 6. Bonus Points
-    * [ ] 7. You Win!
 * [ ] CodeClub GB Scratch modules
   * [ ] Rock Band https://codeclubprojects.org/en-GB/scratch/rock-band/
   * [ ] Lost in Space https://codeclubprojects.org/en-GB/scratch/lost-in-space/
@@ -194,8 +142,8 @@ Resources for Mt Pleasant School Code Club
 
 ## Advanced
 * Get Coding
-* Javascript for Kids
-* Code Combat(online)
+* Javascript for Kids (book)
+* Code Combat (online)
 * Code Avengers
 * How to Code (Chapter 4)
 * Khan Academy (online)
@@ -207,3 +155,7 @@ Resources for Mt Pleasant School Code Club
 
 ## Python
 * https://trinket.io/
+
+## Programming environments
+
+* https://repl.it/languages/javascript
