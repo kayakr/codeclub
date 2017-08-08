@@ -1,5 +1,11 @@
 # codeclub
-Resources for Mt Pleasant School Code Club
+Resources for Mt Pleasant School Code Club, Christchurch, New Zealand
+
+## Name _________________________
+
+## Email ________________________
+
+## Typing club password ________________________            ## Scratch password ________________________
 
 ## Books
 * Get Coding: Learn HTML, CSS & Javascript & build a website, app & game
@@ -152,10 +158,12 @@ Resources for Mt Pleasant School Code Club
 * mBot robots
 * Free Code Camp https://www.freecodecamp.org/ (HTML, CSS, jQuery, Javascript)
 * "The Modern JavaScript Tutorial" https://javascript.info/
+* https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-interactive-tutorials-en.md#javascript
 
 ## Python
 * https://trinket.io/
 
-## Programming environments
+## Programming playgrounds
 
+* https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-playgrounds.md#javascript
 * https://repl.it/languages/javascript
