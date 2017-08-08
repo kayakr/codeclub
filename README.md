@@ -1,11 +1,9 @@
 # codeclub
 Resources for Mt Pleasant School Code Club, Christchurch, New Zealand
 
-## Name _________________________
+## Name _________________________             Email ________________________
 
-## Email ________________________
-
-## Typing club password ________________________            ## Scratch password ________________________
+## Typing club pass ________________________  Scratch pass ________________________
 
 ## Books
 * Get Coding: Learn HTML, CSS & Javascript & build a website, app & game
