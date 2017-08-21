@@ -42,9 +42,6 @@ Resources for Mt Pleasant School Code Club, Christchurch, New Zealand
 * Creative Computing http://scratched.gse.harvard.edu/guide/
 * Make an Amazing Maze with Scatch https://www.pond.co.nz/detail/3743614/make-an-amazing-maze-with-scratch
 
-## HTML/CSS
-* https://thimble.mozilla.org/
-
 ### Adventures of Mike
 * a series of tasks using Scratch
 #### What you need:
@@ -97,6 +94,9 @@ Resources for Mt Pleasant School Code Club, Christchurch, New Zealand
 
 ## HTML and CSS
 * https://popcode.org/ *interactive HTML, CSS, and JS in a single page*
+* https://thimble.mozilla.org/
+* https://webmakerapp.com/ (Chrome extension)
+* https://codepen.io
 
 ## Intermediate
 * [ ] 20 Games with Scratch Book, Level 2 Games (variables, random numbers, animations)
