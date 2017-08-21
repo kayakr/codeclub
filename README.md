@@ -93,6 +93,7 @@ Resources for Mt Pleasant School Code Club, Christchurch, New Zealand
   * [ ] Blockly app for iPad (https://www.makewonder.com/apps/blockly )
 
 ## HTML and CSS
+* FreeCodeCamp HTML and CSS https://www.freecodecamp.org/map-aside#nested-collapseHTML5andCSS
 * https://popcode.org/ *interactive HTML, CSS, and JS in a single page*
 * https://thimble.mozilla.org/
 * https://webmakerapp.com/ (Chrome extension)
