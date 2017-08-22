@@ -116,7 +116,7 @@ Resources for Mt Pleasant School Code Club, Christchurch, New Zealand
 * BBC Microbits
  * [ ] Follow Block Editor Tutorial from https://www.microbit.co.uk/create-code
  * [ ] Look for additional challenges https://www.microbit.co.uk/home#
- * [ ] PXT Editor lets you toggle between blocks and Javascript https://pxt.microbit.org/?lang=en
+ * [ ] MakeCode Editor lets you toggle between blocks and Javascript https://makecode.microbit.org/
    * [ ] Smiley buttons (& over radio) https://makecode.microbit.org/projects/smiley-buttons
    * [ ] Rock Paper Scissors https://makecode.microbit.org/projects/rock-paper-scissors 
  * [ ] Additional projects: https://codeclubprojects.org/en-GB/microbit/
