@@ -134,6 +134,8 @@ Resources for Mt Pleasant School Code Club, Christchurch, New Zealand
    * [ ] 8. Comparing
    * [ ] 9. Light
    * [ ] 10. Value
+ * mBot have a series of lessons for using sensors, making music etc.
+   * http://learn.makeblock.com/mbot-programming/
  * *mBlockly is in app store but mBlock is more recent.*
 
 ## Advanced
