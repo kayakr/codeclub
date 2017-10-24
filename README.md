@@ -139,14 +139,15 @@ Resources for Mt Pleasant School Code Club, Christchurch, New Zealand
  * *mBlockly is in app store but mBlock is more recent.*
 
 ## Advanced
+* Codecademy (Javascript) https://www.codecademy.com/learn/introduction-to-javascript
 * Get Coding
 * Javascript for Kids (book)
-* Code Combat (online)
+* Code Combat https://codecombat.com/
 * Code Avengers
 * How to Code (Chapter 4)
 * Khan Academy (online)
 * Javascript for Kids (book)
-* 3D Programming for Kids
+* 3D Programming for Kids (book)
 * mBot robots
 * Free Code Camp https://www.freecodecamp.org/ (HTML, CSS, jQuery, Javascript)
 * "The Modern JavaScript Tutorial" https://javascript.info/
