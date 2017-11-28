@@ -152,6 +152,7 @@ Resources for Mt Pleasant School Code Club, Christchurch, New Zealand
 * Free Code Camp https://www.freecodecamp.org/ (HTML, CSS, jQuery, Javascript)
 * "The Modern JavaScript Tutorial" https://javascript.info/
 * https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-interactive-tutorials-en.md#javascript
+* WesBos Javascript 30 free course https://javascript30.com/
 
 ## Python
 * https://trinket.io/
